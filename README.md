@@ -75,13 +75,13 @@ MySQL
             alt="" />
     </a>
 </p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravgautam320&show_icons=true&locale=en&theme=tokyonights"
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sauravgautam320&show_icons=true&locale=en&theme=tokyonight"
         alt="sauravgautam320" />
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravgautam320&theme=tokyonights&show_icons=true" alt="sauravgautam" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sauravgautam320&theme=tokyonight&show_icons=true" alt="sauravgautam" /></p>
 <p>
     <img align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravgautam320&show_icons=true&locale=en&theme=tokyonights"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=sauravgautam320&show_icons=true&locale=en&theme=tokyonight"
         alt="sauravgautam320"/>
 </p>
