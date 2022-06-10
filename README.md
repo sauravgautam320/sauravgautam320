@@ -1,18 +1,3 @@
-<!--### Hi there 👋
-
-
-**sauravgautam320/sauravgautam320** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 👋 I'm Saurav Gautam
-- 🔭 I’m currently working on flutter
-- 🌱 I’m currently learning UI/Ux
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
-- 📫 Reach me on: sauravgautam320@gmail.com
-- 😄 Pronouns: ... 
-- ⚡ Fun fact: ... -->
 <h1 align="center">Hey there, This is Saurav Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
 <h3 align="center">A Self-taught programmer based in Kathmandu, Nepal.</h3> <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="435" />
@@ -20,22 +5,16 @@ Here are some ideas to get you started:
 **About Me:**
 
 - 🌱 I’m currently learning **Mobile Development**
-
-<!-- - 👨‍💻 My Portfolio -->
-
 - 📫 Reach me on: **sauravgautam320@gmail.com**
-
-<!-- - 📝 [My Resume] -->
-
 <br/>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://facebook.com/sauravga1" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sauravga1" height="20" width="30" /></a>
 <a href="https://instagram.com/_saurav_gautam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_saurav_gautam" height="20" width="30" /></a>
-<!-- <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="20" width="30" /></a>
-<a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="20" width="30" /></a>
+<a href="https://linkedin.com/in/-saurav-gautam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="" height="20" width="30" /></a>
+<a href="https://twitter.com/_Saurav_Gautam" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="" height="20" width="30" /></a>
+<!-- <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="" height="20" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="" height="20" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="" height="20" width="30" /></a>
 <a href="" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="" height="20" width="30" /></a>
