@@ -5,7 +5,7 @@
 **About Me:**
 
 - 🌱 I’m currently learning **Mobile Development**
-- 📫 Reach me on: **sauravgautam320@gmail.com**
+- 📫 Reach me on: [portfolio](https://sauravgautam320.github.io)
 <br/>
 
 <h3 align="left">Connect with me:</h3>
