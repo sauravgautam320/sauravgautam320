@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, This is Saurav Gautam <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"></h1>
-<h3 align="center">A Self-taught programmer based in Kathmandu, Nepal.</h3> <br />
+<h3 align="center">A Self-taught programmer based in London, UK.</h3> <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"  width="435" />
 
 **About Me:**
