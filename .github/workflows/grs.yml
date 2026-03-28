@@ -35,12 +35,9 @@ jobs:
           path: profile/langs.svg
           token: ${{ secrets.GH_PAT }}
 
-      - name: Generate Streak Card
-        uses: denvercoder1/github-readme-streak-stats-action@v1
-        with:
-          user: ${{ github.repository_owner }}
-          theme: tokyonight
-          target-file: profile/streak.svg
+      - name: Generate Streak Card (Static Download)
+        run: |
+          curl "https://streak-stats.demolab.com/?user=${{ github.repository_owner }}&theme=tokyonight" -o profile/streak.svg
 
       - name: Commit and Push
         run: |
