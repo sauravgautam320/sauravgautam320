@@ -11,9 +11,12 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches all history for all branches
 
-      - name: Ensure directory exists
+      - name: Ensure Directory
         run: mkdir -p profile
 
       - name: Generate Stats Card
@@ -32,21 +35,10 @@ jobs:
           path: profile/langs.svg
           token: ${{ secrets.GH_PAT }}
 
-      - name: Generate Streak Card
-        uses: lowlighter/metrics@latest
-        with:
-          filename: profile/streak.svg
-          token: ${{ secrets.GH_PAT }}
-          base: ""
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
-
       - name: Commit and Push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          mkdir -p profile # Double check folder exists before adding
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          # The next line is the "magic" - it checks if there are changes before committing
           git commit -m "Update README cards" || echo "No changes to commit"
-          git push origin main # Explicitly push to the main branch
+          git push origin main
